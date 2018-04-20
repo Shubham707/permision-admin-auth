@@ -11,7 +11,7 @@
         "laravel/framework": "5.4.*",
         "laravel/tinker": "~1.0",
         "laravelcollective/html": "^5.3",
-        "silber/bouncer": "v1.0.0-beta.2"
+        "silber/bouncer": "v1.0.0-rc.1"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
